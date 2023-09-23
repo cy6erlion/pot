@@ -9,4 +9,5 @@
 
 > process organization tools
 
-See the root branch for ongoing development.
+[commands]
+    init, i        Initialize container defined in a .toml file
